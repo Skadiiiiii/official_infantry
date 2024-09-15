@@ -1,0 +1,13 @@
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+official_infantry\heap_4.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+official_infantry\heap_4.o: C:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+official_infantry\heap_4.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+official_infantry\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+official_infantry\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
